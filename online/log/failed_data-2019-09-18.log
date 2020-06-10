@@ -1,0 +1,44 @@
+{ contestant_name: AKO, voter_number: 0576283510, transaction_id: '775349b845984fda816786645f023d51', ResponseCode: '2001', channel_type: 'tigo-gh', amount_billed: '120', Date: '2019-09-18'} 
+{ contestant_name: MAMA ZIMBY, voter_number: 0243686085, transaction_id: '40723992df2248c0aec59220bb203ff7', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '1.2', Date: '2019-09-18'} 
+{ contestant_name: MAMA ZIMBY, voter_number: 0243686085, transaction_id: '7374aa5ee58e4be5b555695abf42728a', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '1.2', Date: '2019-09-18'} 
+{ contestant_name: MAMA ZIMBY, voter_number: 0243686085, transaction_id: '43804c761151485e87b9484b099d15cf', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '1.2', Date: '2019-09-18'} 
+{ contestant_name: AKO, voter_number: 0249502412, transaction_id: '252d24e373374c03931a254ffd37b2b6', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-18'} 
+{ contestant_name: MERCY, voter_number: 0545339266, transaction_id: 'ba73103658f740418615a475a4cda450', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '6', Date: '2019-09-18'} 
+{ contestant_name: ETORNAM, voter_number: 0240518970, transaction_id: '20a5889824e74311beaca2ab5737c35c', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-18'} 
+{ contestant_name: ETORNAM, voter_number: 0240518970, transaction_id: '46975f243d5d4e7bb0c58a9bd4346fec', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-18'} 
+{ contestant_name: ETORNAM, voter_number: 0240518970, transaction_id: '06198364bfd54662a7e2a602214ded6e', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-18'} 
+{ contestant_name: SUZZY, voter_number: 0551989744, transaction_id: 'cdfe54856d1843dfbe67506803e605ab', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '300', Date: '2019-09-18'} 
+{ contestant_name: SUZZY, voter_number: 0244746103, transaction_id: '42fbc006811f4d6da50161aa282028f3', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-18'} 
+{ contestant_name: GAZA, voter_number: 0543009532, transaction_id: '944153074ae843b4b9c0f7bfbafc29da', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '12', Date: '2019-09-18'} 
+{ contestant_name: GAZA, voter_number: 0543009532, transaction_id: 'd0299b69df5c4001b22e123227b8b302', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '12', Date: '2019-09-18'} 
+{ contestant_name: AMA BA, voter_number: 0241872984, transaction_id: '39990cdbe6874dcba8da05c018901df4', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '30', Date: '2019-09-18'} 
+{ contestant_name: OLOBO, voter_number: 0244932660, transaction_id: 'd50f66961b8e40bab9f6122947895d5d', ResponseCode: '2001', channel_type: 'airtel-gh', amount_billed: '120', Date: '2019-09-18'} 
+{ contestant_name: AMA BA, voter_number: 0501962833, transaction_id: 'f52a3ea3bb704e2684e3eed90f14a2a8', ResponseCode: '2001', channel_type: 'vodafone-gh-ussd', amount_billed: '30', Date: '2019-09-18'} 
+{ contestant_name: PM, voter_number: 0552610198, transaction_id: '7c89b2bb267c493788a429846815e4de', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '1.2', Date: '2019-09-18'} 
+{ contestant_name: MERCY, voter_number: 0245218837, transaction_id: '93cfdcb0ef894f27a776bce6e2cb7d18', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-18'} 
+{ contestant_name: MERCY, voter_number: 0245218837, transaction_id: '6b0c02f0e73244f899b5c26da0fa53e5', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-18'} 
+{ contestant_name: ANITA, voter_number: 0247726869, transaction_id: 'c395a8fd8b42476680fea45a33963dde', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '120', Date: '2019-09-18'} 
+{ contestant_name: SHOE, voter_number: 0276664012, transaction_id: 'b1f2fc57063047518426778656694d42', ResponseCode: '2001', channel_type: 'tigo-gh', amount_billed: '1.2', Date: '2019-09-18'} 
+{ contestant_name: KASI, voter_number: 0242771607, transaction_id: '1a239593a13442a18e791c393304ee70', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '120', Date: '2019-09-18'} 
+{ contestant_name: DEDE, voter_number: 0572597450, transaction_id: '916946a4302444e597018c449cc61fb9', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '1.2', Date: '2019-09-18'} 
+{ contestant_name: KASI, voter_number: 0552169295, transaction_id: '170afa4f10cb45b9972f2e0989d091b7', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '120', Date: '2019-09-18'} 
+{ contestant_name: DEDE, voter_number: 0572597450, transaction_id: 'ea98bb2a84f34504904b14e0c8cfca13', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '1.2', Date: '2019-09-18'} 
+{ contestant_name: ETORNAM, voter_number: 0240518970, transaction_id: 'fdef65e1e6174d13b5f508a439e57ccf', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-18'} 
+{ contestant_name: ETORNAM, voter_number: 0240518970, transaction_id: '05828709589d4bd68f5989b1e117cb67', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-18'} 
+{ contestant_name: ETORNAM, voter_number: 0240518970, transaction_id: 'e6f837ea201945b9bb38e0bacf6108ec', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-18'} 
+{ contestant_name: ETORNAM, voter_number: 0240518970, transaction_id: '5ea42fd2f0974bc1862fe818dc368c92', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-18'} 
+{ contestant_name: DEDE, voter_number: 0572597450, transaction_id: '99ad717d91064132b45cfb35bf96c993', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '1.2', Date: '2019-09-18'} 
+{ contestant_name: KASI, voter_number: 0279276228, transaction_id: '8c4cc132115f4009b2612ef6cd38fb68', ResponseCode: '2001', channel_type: 'tigo-gh', amount_billed: '1.2', Date: '2019-09-18'} 
+{ contestant_name: ANITA, voter_number: 0247726860, transaction_id: 'aa8e3d42e0af49b787359c3bbf520c77', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '120', Date: '2019-09-18'} 
+{ contestant_name: DEDE, voter_number: 0572597450, transaction_id: '5a5655ded20743c6a5d6af4f78ee58a6', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '1.2', Date: '2019-09-18'} 
+{ contestant_name: BB, voter_number: 0241872984, transaction_id: 'cd157e0e910c4a07a4a28df30e08bc6f', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '120', Date: '2019-09-18'} 
+{ contestant_name: DEDE, voter_number: 0572597450, transaction_id: 'd37e568946d24beaa730c765bce3b32e', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '1.2', Date: '2019-09-18'} 
+{ contestant_name: DEDE, voter_number: 0572597450, transaction_id: '9def0c10edb3445995b0a4a10993da71', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '1.2', Date: '2019-09-18'} 
+{ contestant_name: DEDE, voter_number: 0572597450, transaction_id: '23b256038770439a8e3ac03bbf76b426', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '1.2', Date: '2019-09-18'} 
+{ contestant_name: ETORNAM, voter_number: 0240518970, transaction_id: '1d25b4e2fd42465993f679fd9d514a26', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-18'} 
+{ contestant_name: ETORNAM, voter_number: 0240518970, transaction_id: '4d9209aefbf04e41a87d5d53acb78b0f', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-18'} 
+{ contestant_name: KASI, voter_number: 0242771607, transaction_id: 'a6d7572000c445e9b3f65c9f5ac01813', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-18'} 
+{ contestant_name: KASI, voter_number: 0242771607, transaction_id: '482a8b88cb8c47c69611b554d973a7f1', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-18'} 
+{ contestant_name: ETORNAM, voter_number: 0240518970, transaction_id: '1b91c2f964134343bbd2f0bc7d860e55', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '120', Date: '2019-09-18'} 
+{ contestant_name: ETORNAM, voter_number: 0240518970, transaction_id: 'a4586f00984642aa8c48f14578ba1e0b', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '120', Date: '2019-09-18'} 
+{ contestant_name: MAAFIA, voter_number: 0507430686, transaction_id: 'a51a2cfdba6a4999919d037aff79c569', ResponseCode: '2001', channel_type: 'vodafone-gh-ussd', amount_billed: '1.2', Date: '2019-09-18'} 

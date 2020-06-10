@@ -1,0 +1,2 @@
+{ contestant_name: SITA, voter_number: 0245140455, transaction_id: 'b18314148e99453c833075c35c751db4', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-24'} 
+{ contestant_name: SITA, voter_number: 0245140455, transaction_id: '5b4d2f5e7eac4cc88f06ee0742b56dc4', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-24'} 

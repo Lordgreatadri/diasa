@@ -1,0 +1,5 @@
+{ contestant_name: FELICIA, voter_number: 0243019231, transaction_id: '1afbe42d1e7546ba9443f9ee35672608', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '6', Date: '2019-09-05'} 
+{ contestant_name: GAZA, voter_number: 0279763375, transaction_id: 'af8080bd13464fc886bf12bb0089f6d0', ResponseCode: '2001', channel_type: 'airtel-gh', amount_billed: '1.2', Date: '2019-09-05'} 
+{ contestant_name: SAPATO, voter_number: 0244629498, transaction_id: '6bba997fbf6147c6b48aeace7d8b0f62', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '30', Date: '2019-09-05'} 
+{ contestant_name: PM, voter_number: 0244585134, transaction_id: 'd0af50e5049c47abb91db794e7a12453', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '1.2', Date: '2019-09-05'} 
+{ contestant_name: DEDE, voter_number: 0245694698, transaction_id: 'df2d6b0eb52445db91273fb039bfd75b', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '120', Date: '2019-09-05'} 

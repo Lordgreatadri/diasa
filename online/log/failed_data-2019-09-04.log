@@ -1,0 +1,2 @@
+{ contestant_name: BB, voter_number: 0241872984, transaction_id: 'd158c98daa3443d7bb69225a7e7a907b', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '12', Date: '2019-09-04'} 
+{ contestant_name: ANITA, voter_number: 0247726860, transaction_id: 'c7b7246b7f464349a2d32c44c8898c71', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '120', Date: '2019-09-04'} 

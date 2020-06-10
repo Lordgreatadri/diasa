@@ -1,0 +1,8 @@
+{ contestant_name: SITA, voter_number: 0243101910, transaction_id: '7b6ae8f1c9004c35a1642130831fb9b7', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-14'} 
+{ contestant_name: MAMA ZIMBY, voter_number: 0240242896, transaction_id: '8c64e42a76064035b102fcca4510cdb5', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '30', Date: '2019-09-14'} 
+{ contestant_name: MAMA ZIMBY, voter_number: 0240242896, transaction_id: 'c958562b571e43858e070f30dde07c59', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-14'} 
+{ contestant_name: MAMA ZIMBY, voter_number: 0240242896, transaction_id: 'b357ef10f34f43ee94ed6a7f9a017afc', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '12', Date: '2019-09-14'} 
+{ contestant_name: MAMA ZIMBY, voter_number: 0240242896, transaction_id: 'd0d1e2b98c3b4bafb2e8d3f40baa52b5', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '6', Date: '2019-09-14'} 
+{ contestant_name: MAMA ZIMBY, voter_number: 0240242896, transaction_id: '353b6ab4d9fe43de843e0fd737c166f6', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '6', Date: '2019-09-14'} 
+{ contestant_name: BIG MAMA, voter_number: 0244445950, transaction_id: '0debce5da5054c0ab148e69c25e931cf', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '1.2', Date: '2019-09-14'} 
+{ contestant_name: MAMA ZIMBY, voter_number: 0248073576, transaction_id: 'd904300c036941d7af7fb6d40e761ec3', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '1.2', Date: '2019-09-14'} 

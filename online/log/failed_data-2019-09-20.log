@@ -1,0 +1,2 @@
+{ contestant_name: GAZA, voter_number: 0244035509, transaction_id: 'f76231ab008b4ffaa72f13151f93f309', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '600', Date: '2019-09-20'} 
+{ contestant_name: SUZZY, voter_number: 0244746103, transaction_id: '1526ca715b594530a4a804142ca26814', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '60', Date: '2019-09-20'} 

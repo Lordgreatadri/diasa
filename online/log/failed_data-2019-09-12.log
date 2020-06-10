@@ -1,0 +1,4 @@
+{ contestant_name: MAMA ZIMBY, voter_number: 0243161151, transaction_id: '521e2e94feda4d4589ea9be5e52fb898', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '6', Date: '2019-09-12'} 
+{ contestant_name: MAMA ZIMBY, voter_number: 0243161151, transaction_id: 'fa183a440a0a4e5c865026135f9fbb7c', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '6', Date: '2019-09-12'} 
+{ contestant_name: GAZA, voter_number: 0543126056 , transaction_id: '30246c0178594d78b22900dfd3238002', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '12', Date: '2019-09-12'} 
+{ contestant_name: GAZA, voter_number: 0546043526, transaction_id: 'af954b0eabf7474aa657154fef15a762', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '6', Date: '2019-09-12'} 

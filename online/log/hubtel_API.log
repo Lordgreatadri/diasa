@@ -1,0 +1,1 @@
+result: {"ResponseCode":"4010","Message":"Some information you entered is not quite right. Please check and try again.","Errors":[{"Field":"CustomerMsisdn","Messages":["CustomerMsisdn is not valid phone number for GH."]}]}

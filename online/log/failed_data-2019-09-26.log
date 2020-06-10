@@ -1,0 +1,7 @@
+{ contestant_name: MAAFIA, voter_number: 0557954188, transaction_id: 'bb1fd44cf3e04e6ab824621cc7b1df16', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '600', Date: '2019-09-26'} 
+{ contestant_name: EDINA, voter_number: 0542237645, transaction_id: '67b53101c92a4d6688576d80fa69a553', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '12', Date: '2019-09-26'} 
+{ contestant_name: GAZA, voter_number: 0241872984, transaction_id: '5690da8f01ca4ec5b873aa738210627a', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '1.2', Date: '2019-09-26'} 
+{ contestant_name: MAAME, voter_number: 0554753783, transaction_id: '97aa73ca129748a1b101d6b67c10548d', ResponseCode: '2001', channel_type: 'vodafone-gh-ussd', amount_billed: '1.2', Date: '2019-09-26'} 
+{ contestant_name: SHOE, voter_number: 0247744433, transaction_id: '8c16236e5b6c4b65a3ba81b5f63f9a23', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '6', Date: '2019-09-26'} 
+{ contestant_name: MAAFIA, voter_number: 0557954188, transaction_id: '57429a5ef34e419cbbccd140e60ec7bc', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '600', Date: '2019-09-26'} 
+{ contestant_name: BANASCO, voter_number: 0201627322, transaction_id: 'e99926afaf5f4c9a8fdcbd1c4aab79dc', ResponseCode: '2001', channel_type: 'vodafone-gh-ussd', amount_billed: '1.2', Date: '2019-09-26'} 

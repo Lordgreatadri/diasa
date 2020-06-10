@@ -1,0 +1,2 @@
+{ contestant_name: KASI, voter_number: 0500034171, transaction_id: '31aed519e2264d5b895ec6f381829e5a', ResponseCode: '2001', channel_type: 'vodafone-gh-ussd', amount_billed: '12', Date: '2019-09-17'} 
+{ contestant_name: PM, voter_number: 0244915019, transaction_id: '7049760dec814ff1b8a717b95bb3f88d', ResponseCode: '2001', channel_type: 'vodafone-gh-ussd', amount_billed: '6', Date: '2019-09-17'} 

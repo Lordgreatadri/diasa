@@ -1,0 +1,5 @@
+{ contestant_name: GAZA, voter_number: 0546043526, transaction_id: '4791bcd5b776428a99cc70dcc3e74003', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '600', Date: '2019-09-25'} 
+{ contestant_name: GAZA, voter_number: 0546043526, transaction_id: '5dbddb063172459cae8f16c250a26d1e', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '600', Date: '2019-09-25'} 
+{ contestant_name: SITA, voter_number: 0245140455, transaction_id: 'a1955c8a4a374908be6910862ef656d1', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '120', Date: '2019-09-25'} 
+{ contestant_name: GAGA, voter_number: 0243856783, transaction_id: 'e4ef957ae8824ac58f1655800ef80d4c', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '600', Date: '2019-09-25'} 
+{ contestant_name: KASI, voter_number: 0552169295, transaction_id: '9a042431413c4475b029fc0c936110b3', ResponseCode: '2001', channel_type: 'mtn-gh', amount_billed: '12', Date: '2019-09-25'} 
