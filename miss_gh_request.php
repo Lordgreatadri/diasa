@@ -32,13 +32,9 @@ $ussdRequest     = json_decode(@file_get_contents('php://input'));
 // Check if no errors occured. 
 if($ussdRequest != NULL) 
 {
-	// $DB_SERVER = "127.0.0.1";//127.0.0.1 localhost
-	// $DB_NAME = "miss_gh"; //"gmb";
-	// $DB_USER = "root";
-	// $DB_PASS = 'FAg8(3P^tJVnBDsF%F'; //#4kLxMzGurQ7Z~ Bim32!@b)o FAg8(3P^tJVnBDsF%F
-	// $database = new mysqli($DB_SERVER, $DB_USER, $DB_PASS, $DB_NAME);
+	
 
-	$conn      = new mysqli('localhost','root', '#4kLxMzGurQ7Z~', 'miss_gh_mobile');
+	$conn      = new mysqli('localhost','root', '', 'miss_gh_mobile');
 
 	//Create a response object. 
 	$ussdResponse = new stdClass; 
