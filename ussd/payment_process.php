@@ -6,7 +6,7 @@
 
 	$payment_Obj = new HubtelPaymentProcessor();
 
-	$database = new mysqli('localhost', 'root', '#4kLxMzGurQ7Z~', 'di_asa');
+	$database = new mysqli('localhost', 'root', '~', 'di_asa');
 
 	// checking channel type used
 	function get_channel_type($voter_number) 
