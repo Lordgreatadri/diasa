@@ -49,8 +49,8 @@ class send_ussd_sms //extends AnotherClass
 			
 			$msisdn = $raw_number;var_dump($msisdn);
 			$message = urlencode($message);
-			//http://54.163.215.114:2788/Receiver?User=mycloudhttp&Pass=M1C2T3&From=1400&To=$msisdn&Text=$message
-	        $url = "http://54.163.215.114:2799/Receiver?User=test&Pass=test&From=1400&To=$msisdn&Text=$message";
+			
+	        $url = "";
 	        $curl = curl_init();
 	        curl_setopt_array($curl, array(
 	            CURLOPT_RETURNTRANSFER => 1,
