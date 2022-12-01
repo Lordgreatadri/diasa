@@ -5,10 +5,8 @@ class SendSmsQuiz
     
     public function send_response($msisdn, $message)
     {
-        $message = urlencode($message);//$url = "http://54.163.215.114:2789/Receiver?User=tv3quiz&Pass=T3Q3v3&From=1413&To=$msisdn&Text=$message";
-        //http://54.163.215.114:2776/Receiver?User=shscheck&Pass=place12ment&From=1400&To=$msisdn&Text=$message
-        // $url = "http://54.163.215.114:2776/Receiver?User=Kwese&Pass=K1S2T3&From=1403&To=$msisdn&Text=$message";
-        $url = "http://54.163.215.114:2789/Receiver?User=tv3quiz&Pass=T3Q3v3&From=1422&To=$msisdn&Text=$message";
+        $message = urlencode($message);//
+        $url = "";
         $curl = curl_init();
         curl_setopt_array($curl, array(
             CURLOPT_RETURNTRANSFER => 1,
