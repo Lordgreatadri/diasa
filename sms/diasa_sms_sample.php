@@ -21,7 +21,7 @@
 
 	if(isset($_REQUEST['sender']) && isset($_REQUEST['receiver']) && isset($_REQUEST['text'])) 
 	{
-		$db = mysqli_connect('localhost', 'root', '#4kLxMzGurQ7Z~', 'di_asa');// #4kLxMzGurQ7Z~
+		$db = mysqli_connect('localhost', 'root', '#~', 'di_asa');// #~
 	    
 	    $sender               = $db->real_escape_string($_REQUEST['sender']);
 	    $receiver             = $db->real_escape_string($_REQUEST['receiver']);
@@ -71,7 +71,7 @@
 	    	include_once("SendSmsQuiz.php");
 			
 			$sendSms = new SendSmsQuiz();
-			$db = mysqli_connect('localhost', 'root', '#4kLxMzGurQ7Z~', 'di_asa');  #4kLxMzGurQ7Z~
+			$db = mysqli_connect('localhost', 'root', '#~', 'di_asa');  #~
 
 			$permitted_chars = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
 		    $trac_info       = substr(str_shuffle($permitted_chars), 0, 22).time();
