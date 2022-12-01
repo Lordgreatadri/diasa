@@ -9,7 +9,7 @@ class DBCon{
      */
     private $db_host = "localhost";  // Change as required  127.0.0.1
     private $db_user = "root";  // Change as required
-    private $db_pass = "#4kLxMzGurQ7Z~";  // Bim32!@b)o  #4kLxMzGurQ7Z~ Change as required  FAg8(3P^tJVnBDsF%F
+    private $db_pass = "";  // ~ Change as required  
     private $db_name = "di_asa";    // Change as required
    
     /*
