@@ -26,7 +26,7 @@ $ussdRequest     = json_decode(@file_get_contents('php://input'));
 // Check if no errors occured. 
 if($ussdRequest != NULL) 
 {
-	$conn      = new mysqli('localhost','root', '#4kLxMzGurQ7Z~', 'di_asa');
+	$conn      = new mysqli('localhost','root', '', 'di_asa');
 
 	//Create a response object. 
 	$ussdResponse = new stdClass; 
