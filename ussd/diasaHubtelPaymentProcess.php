@@ -13,8 +13,8 @@ class HubtelPaymentProcessor
 		  'CustomerEmail'=> 'support@mobilecontent.com.gh',
 		  'Channel'=> $channel,
 		  'Amount'=> $amount,//0.01, // 
-		  'PrimaryCallbackUrl'=> 'http://mysmsinbox.com/di_asa/ussd/disasa_endpoint_callback.php', 
-		  //'http://54.224.225.219/ekb/ussd/.php',
+		  'PrimaryCallbackUrl'=> '', 
+		 
 		  'Description'=> 'diasa ussd votes',
 		  'ClientReference'=> 'DIASA_USSD',
 		);
@@ -22,10 +22,10 @@ class HubtelPaymentProcessor
 
 		//API Keys
 
-		$clientId = 'nQjNGkw';
-		$clientSecret = '553548c3-c96d-4cb5-a81c-7e354dff845c';
+		$clientId = '';
+		$clientSecret = '';
 		$basic_auth_key =  'Basic ' . base64_encode($clientId . ':' . $clientSecret);
-		$request_url = 'https://api.hubtel.com/v1/merchantaccount/merchants/HM0102180009/receive/mobilemoney';
+		$request_url = '';
 		$receive_momo_request = json_encode($receive_momo_request);
 
 		$ch =  curl_init($request_url);  
@@ -56,8 +56,8 @@ class HubtelPaymentProcessor
 		}else
 		{
 
-			// $database = new mysqli('127.0.0.1', 'root', 'FAg8(3P^tJVnBDsF%F', 'miss_gh');//Bim32!@b)omiss_gh_mobile
-			$database = new mysqli('localhost', 'root', '#4kLxMzGurQ7Z~', 'di_asa');
+			// $database = new mysqli('127.0.0.1', 'root', '', 'miss_gh');//
+			$database = new mysqli('localhost', 'root', '', 'di_asa');
 			
 			$json = json_decode($result, true);
 
@@ -89,8 +89,7 @@ class HubtelPaymentProcessor
 		  'CustomerEmail'=> 'support@mobilecontent.com.gh',
 		  'Channel'=> $channel,
 		  'Amount'=> $amount,
-		  'PrimaryCallbackUrl'=> 'http://mysmsinbox.com/di_asa//ussd/disasa_endpoint_callback.php',
-		  //'http://54.224.225.219/ekb/ussd/.php', 
+		  'PrimaryCallbackUrl'=> '', 
 		  // 'Token'=> $token,
 		  'Description'=> 'diasa ussd votes',
 		  'ClientReference'=> 'DIASA_USSD',
@@ -98,10 +97,10 @@ class HubtelPaymentProcessor
 
 		//API Keys
 
-		$clientId = 'nQjNGkw';
-		$clientSecret = '553548c3-c96d-4cb5-a81c-7e354dff845c';
+		$clientId = '';
+		$clientSecret = '';
 		$basic_auth_key =  'Basic ' . base64_encode($clientId . ':' . $clientSecret);
-		$request_url = 'https://api.hubtel.com/v1/merchantaccount/merchants/HM0102180009/receive/mobilemoney';
+		$request_url = '';
 		$receive_momo_request = json_encode($receive_momo_request);
 
 		$ch =  curl_init($request_url);  
@@ -128,7 +127,7 @@ class HubtelPaymentProcessor
 		    fwrite($file, "$request_log");
 		    fclose($file);
 		}else{
-			$database = new mysqli('localhost', 'root', '#4kLxMzGurQ7Z~', 'di_asa');
+			$database = new mysqli('localhost', 'root', '', 'di_asa');
 
 			$json = json_decode($result, true);
 
