@@ -39,8 +39,8 @@
 
 
 
-    // $conn = new mysqli('127.0.0.1','root', '', 'miss_gh');//Bim32!@b)o   FAg8(3P^tJVnBDsF%F   localhost
-    $conn = new mysqli('localhost', 'root', '#4kLxMzGurQ7Z~', 'di_asa');
+    // $conn = new mysqli('127.0.0.1','root', '', 'miss_gh');//
+    $conn = new mysqli('localhost', 'root', '~', 'di_asa');
 
 
     // loop through data and then update the contestant_table with the right vote count.......  
@@ -157,7 +157,7 @@
             
             $msisdn = $raw_number;
             $message = urlencode($message);
-            $url = "http://54.163.215.114:2788/Receiver?User=mycloudhttp&Pass=M1C2T3&From=1413&To=$msisdn&Text=$message";
+            $url = "";
             $curl = curl_init();
             curl_setopt_array($curl, array(
                 CURLOPT_RETURNTRANSFER => 1,
