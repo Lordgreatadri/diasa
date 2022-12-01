@@ -6,7 +6,7 @@ class SendSms
    public function send_response($msisdn, $message)
     {
         $message = urlencode($message);
-        $url = "http://54.163.215.114:2776/Receiver?User=shscheck&Pass=place12ment&From=1400&To=$msisdn&Text=$message";
+        $url = "";
         $curl = curl_init();
         curl_setopt_array($curl, array(
             CURLOPT_RETURNTRANSFER => 1,
